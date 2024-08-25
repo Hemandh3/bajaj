@@ -20,7 +20,7 @@ const App = () => {
       }
 
       const res = await fetch(
-        "https://rahulhost-50021977879.development.catalystappsail.in/bhfl",
+        "https://host-50021977879.development.catalystappsail.in/bhfl",
         {
           method: "POST",
           headers: { "Content-Type": "application/json" },
